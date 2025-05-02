@@ -6,7 +6,7 @@ ShaderToy学习笔记
 上图代码在 https://www.shadertoy.com/view/Ms2SD1  
 
 本系列是ShaderToy的入门学习笔记，主要记录学习心得及一些学习过程中遇到的问题和解决方案。
-所有代码及学习资料在[github](https://github.com/DragonBaySpark/study_shadertoy)上
+所有代码在[github](https://github.com/DragonBaySpark/study_shadertoy)上
 
 **学习资源：**
 1. https://shadertoy.peakcoder.com/
